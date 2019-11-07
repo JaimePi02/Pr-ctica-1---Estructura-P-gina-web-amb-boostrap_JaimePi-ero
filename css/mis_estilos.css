@@ -1,0 +1,15 @@
+.fondo{
+  background:blue;
+}
+.borde{
+  border: 1px solid black;
+  height: 50px;
+  text-align: center;
+}
+
+
+.color1{ background: #eeeeee;}
+.color2{ background: #295ba7;}
+.color3{ background: #94ac3c;}
+.color4{ background: #dc3545;}
+.color5{ background: #eeeeee;}
